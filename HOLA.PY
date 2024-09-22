@@ -1,1 +1,0 @@
-print("Ahora si porque no me gusta que esté en mayúsculas.")
