@@ -19,7 +19,8 @@ print(f'''
     Nombre: {estudiante.nombre}.
     Edad: {estudiante.edad} años.
     Curso: {estudiante.curso}.''') 
-
-estudiar = input()
-if estudiar.lower == 'estudiar':
-    estudiante.estudiar()
+while True:
+    estudiar = input()
+    if (estudiar.lower() == 'estudiar'):
+        estudiante.estudiar()
+        break
