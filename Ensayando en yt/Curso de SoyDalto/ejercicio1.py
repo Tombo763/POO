@@ -24,3 +24,4 @@ while True:
     if (estudiar.lower() == 'estudiar'):
         estudiante.estudiar()
         break
+
