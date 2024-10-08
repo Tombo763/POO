@@ -1,3 +1,5 @@
+from tipo_usuario import *
+
 class Usuario(Tipo_usuario): #HERENCIA
     def __init__(self, idUsuario, nombre, direccion, telefono, correoElectronico, id_tipo_usuario):
         self.idUsuario = idUsuario
