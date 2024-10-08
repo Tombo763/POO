@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 863785724098236880522db8760fe5182cbadb25
 from tipo_usuario import *
 
 class Usuario(Tipo_usuario): #HERENCIA
