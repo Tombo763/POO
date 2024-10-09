@@ -5,18 +5,14 @@ class Prestamo:
         self.fechaDevolucion = fechaDevolucion
         self.estadoPrestamo = estadoPrestamo
     
-    def registroPrestamo(self):
-        print('Registrando préstamo...')
+    def fechaPréstamo(self):
+        print('Calculando fecha de préstamo...')
         pass
 
-    def seleccionarPrestamo(self):
-        print('Selecionando préstamo...')
+    def devolverLibro(self):
+        print('Calculando fecha de devolución del libro...')
         pass
 
-    def modificarPrestamo(self):
-        print('Modificando préstamo...')
-        pass
-
-    def eliminarPrestamo(self):
-        print('Eliminando préstamo...')
+    def renovarPrestamo(self):
+        print('Calculando nueva fecha de devolución...')
         pass

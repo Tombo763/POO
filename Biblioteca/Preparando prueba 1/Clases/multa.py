@@ -5,18 +5,10 @@ class Multa:
         self.fechaEmision = fechaEmision
         self.estado = estado
     
-    def registrarMulta(self):
-        print('Registrando multa...')
+    def calcularMulta(self):
+        print('Calculando multa...')
         pass
-
-    def seleccionarMulta(self):
-        print('Mostrando multas...')
-        pass
-
-    def modificarMulta(self):
-        print('Modificando multa...')
-        pass
-
-    def eliminarMulta(self):
-        print('Eliminando multa...')
+    
+    def pagarMulta(self):
+        print('Pagando multa...')
         pass

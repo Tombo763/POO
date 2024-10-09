@@ -5,18 +5,19 @@ class Bibliotecario:
         self.telefono = telefono
         self.correoElectronico = correoElectronico
     
-    def registrarBibliotecario(self):
-        print('Registrando bibliotecario...')
+    def validarPerfil(self):
+        print('Validando perfil...')
         pass
 
-    def seleccionarBibliotecario(self):
-        print('Mostrando bilbiotecario...')
+    def gestionarLibros(self):
+        print('Gestionando libros...')
         pass
 
-    def modificarBibliotecario(self):
-        print('Modificando bilbiotecarios...')
+    def gestionarUsuarios(self):
+        print('Gestionando usuarios...')
         pass
 
-    def eliminandoBibliotecario(self):
-        print('Eliminando bibliotecario...')
+    def gestionarPrestamos(self):
+        print('Gestionando préstamos...')
         pass
+    
