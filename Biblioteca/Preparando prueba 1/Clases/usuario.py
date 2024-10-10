@@ -9,19 +9,3 @@ class Usuario(Tipo_usuario): #HERENCIA
         self.direccion = direccion
         self.telefono = telefono
         self.correoElectronico = correoElectronico
-    
-    def crearUsuario(self):
-        print('Creando usuario')
-        pass
-
-    def seleccionarTipo_usuario(self):
-        print('Seleccionando usuario...')
-        pass
-
-    def modificarUsuario(self):
-        print('Modificando usuario...')
-        pass
-
-    def eliminarUsuario(self):
-        print('Eliminando usuario...')
-        pass
